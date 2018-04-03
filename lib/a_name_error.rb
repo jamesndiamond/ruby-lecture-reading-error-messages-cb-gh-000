@@ -1,3 +1,3 @@
 "hello world"
 
-def const hello_world
+hello_world
