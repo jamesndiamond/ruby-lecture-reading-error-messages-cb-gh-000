@@ -1,3 +1,3 @@
 "hello world"
 
-int hello_world
+def hello_world
